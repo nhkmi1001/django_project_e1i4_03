@@ -19,6 +19,10 @@ from articles import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+
+    #오형석 index 설정
     path('index/', views.index),
+
+    # 김남훈 메인 설정
     path('',views.main),
 ]
