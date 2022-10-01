@@ -23,7 +23,7 @@
 * __화면기획서(Wireframe)__ [상세보기](https://www.figma.com/proto/kPn3gSrv4c8r1tIW7zXEZY/e1i4_instaclone_wireframe_v1.0?node-id=5%3A208&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A208)
 
 * __ERD(Entity Relationship Diagram)__ [상세보기 - WIKI 이동](https://github.com/auberr/project_e1i4_insta_clone/wiki/ERD)
-<img src="https://user-images.githubusercontent.com/6766202/193012707-b5428617-a650-48cd-86ca-d88f75671c30.png">
+<img src="https://user-images.githubusercontent.com/6766202/193394013-62128eeb-6cf9-4e2c-94bf-5e6fcbbe6b7c.png">
 
 * __API(Application Programming Interface)__ [상세보기](https://docs.google.com/spreadsheets/d/1MLNpDRrXkBEfHgwunWxZxYNU6JZDrj47iCOTlf0Tf5s/edit?usp=sharing)  
 <br/> 
