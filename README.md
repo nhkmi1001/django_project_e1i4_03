@@ -1,4 +1,4 @@
-# e1i4 insta clone coding project practice repo#  
+# e1i4 insta clone coding project practice repo #  
 <br/> 
 
 ## 🏠 소개
